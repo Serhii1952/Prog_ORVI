@@ -3,7 +3,6 @@
 ####################################
 # Установка необходимых библиотек (если не установлены)
 install.packages(c("readxl", "caret", "pROC", "dplyr"))
-
 library(readxl)
 library(caret)
 library(pROC)
